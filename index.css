@@ -1,0 +1,262 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+nav {
+  background-color: black;
+  display: flex;
+  height: 100px;
+  width: 1000px;
+  margin-left: 150px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+
+.logo {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 15px;
+  color: azure;
+}
+
+ul {
+  display: flex;
+  margin-left: 600px;
+  gap: 2rem;
+  list-style: none;
+  margin-top: 30px;
+}
+
+ul a {
+  text-decoration: none;
+  color: bisque;
+}
+
+.poto {
+  height: 300px;
+  margin-left: 300px;
+}
+
+.konten {
+  display: flex;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+
+.teks h1 {
+  font-size: 80px;
+}
+
+.teks h2 {
+  font-size: 40px;
+}
+
+.teks button {
+  border-radius: 20px;
+  height: 35px;
+  width: 70px;
+}
+
+.teks {
+  margin-top: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.poto2 {
+  height: 250px;
+  width: 300px;
+  margin-left: 100px;
+  border-bottom-left-radius: 20%;
+  border-top-right-radius: 20%;
+}
+
+.judul {
+  text-align: center;
+  margin-top: 200px;
+}
+
+.aer {
+  height: 200px;
+  width: 150px;
+  border-radius: 20%;
+}
+
+.tulis {
+  margin-top: 70px;
+  margin-left: 30px;
+}
+
+.ser {
+  margin-top: 80px;
+  margin-left: 30px;
+  display: flex;
+}
+
+.go {
+  display: flex;
+}
+
+.retri {
+  margin-top: 200px;
+  padding-top: 50px;
+  text-align: center;
+  color: azure;
+}
+
+.tws {
+  background-color: black;
+  height: 700px;
+}
+
+.ear {
+  height: 200px;
+  border-radius: 20%;
+}
+
+.raw {
+  margin-top: 100px;
+  margin-left: 30px;
+  display: flex;
+  background-color: gray;
+  width: 400px;
+  border-radius: 40px;
+}
+
+.harga {
+  margin-top: 80px;
+  margin-left: 30px;
+}
+
+.harga button {
+  width: 50px;
+  border-radius: 30px;
+}
+
+.ear1 {
+  height: 200px;
+  border-radius: 20%;
+}
+
+.raw1 {
+  margin-top: 100px;
+  margin-left: 30px;
+  display: flex;
+  background-color: gray;
+  width: 400px;
+  border-radius: 40px;
+}
+
+.harga1 {
+  margin-top: 80px;
+  margin-left: 30px;
+}
+
+.harga1 button {
+  width: 50px;
+  border-radius: 30px;
+}
+
+.ear2 {
+  height: 200px;
+  border-radius: 20%;
+}
+
+.raw2 {
+  margin-top: 100px;
+  margin-left: 30px;
+  display: flex;
+  background-color: gray;
+  width: 400px;
+  border-radius: 40px;
+}
+
+.harga2 {
+  margin-top: 80px;
+  margin-left: 30px;
+}
+
+.harga2 button {
+  width: 50px;
+  border-radius: 30px;
+}
+
+.colom {
+  display: flex;
+}
+
+.colum {
+  display: flex;
+}
+
+.disen {
+  height: 300px;
+  border-radius: 50px;
+}
+
+.disen1 {
+  height: 300px;
+  width: 300px;
+  border-radius: 50px;
+}
+
+.koleksi {
+  display: flex;
+  gap: 7rem;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.isi button {
+  margin-top: 100px;
+  height: 30px;
+  width: 80px;
+  border-radius: 30px;
+}
+
+footer {
+  background-color: black;
+  height: 300px;
+}
+
+.ahir {
+  margin-top: 100px;
+  padding-top: 50px;
+  padding-left: 30px;
+  display: flex;
+  color: azure;
+}
+
+.tera {
+  padding-left: 600px;
+  display: flex;
+  gap: 9rem;
+}
+
+.bawah {
+  padding-left: 30px;
+  padding-top: 20px;
+  color: azure;
+  display: flex;
+}
+
+.semua {
+  padding-left: 230px;
+}
+
+.p1 {
+  padding-left: 130px;
+}
+
+.p2 {
+  padding-left: 70px;
+}
+
+.yang {
+  color: aliceblue;
+  padding-top: 100px;
+  text-align: center;
+}
+
+/* @media screen and (min-max: 600px;) {
+} */
